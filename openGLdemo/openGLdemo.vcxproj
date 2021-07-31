@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="2dGame\aabb_collide.h" />
     <ClInclude Include="Callbacks.h" />
+<<<<<<< HEAD
     <ClInclude Include="cursor\cursor.h" />
     <ClInclude Include="Input.h" />
     <ClInclude Include="2dGame\sidescroller.h" />
@@ -158,6 +159,8 @@
     <ClInclude Include="rendering\GL\TextureLoader.h" />
     <ClInclude Include="rendering\GL\Version.h" />
     <ClInclude Include="rendering\GL\Vertex.h" />
+=======
+>>>>>>> parent of 4b487eb (vid 2 updates)
     <ClInclude Include="Utilities.h" />
   </ItemGroup>
   <ItemGroup>

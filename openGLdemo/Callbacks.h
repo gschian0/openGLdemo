@@ -48,6 +48,9 @@ void glfw_framebuffer_size_callback(GLFWwindow* window, int w, int h) {
   glViewport(0, 0, w, h);
 }
 
+<<<<<<< HEAD
 void glfw_mouse_movement_callback(GLFWwindow* window, double x, double y) {
   cursor::Update(x, y);
 }
+=======
+>>>>>>> parent of 4b487eb (vid 2 updates)

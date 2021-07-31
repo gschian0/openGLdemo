@@ -26,6 +26,7 @@
     <ClInclude Include="Utilities.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+<<<<<<< HEAD
     <ClInclude Include="rendering\GL\MeshLoader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -79,5 +80,7 @@
     <None Include="GLSL_src\vert_2DProjected.glsl" />
     <None Include="GLSL_src\frag_Colored.glsl" />
     <None Include="GLSL_src\frag_Textured.glsl" />
+=======
+>>>>>>> parent of 4b487eb (vid 2 updates)
   </ItemGroup>
 </Project>
